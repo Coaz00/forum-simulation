@@ -1,2 +1,2 @@
 # forum-simulation
-This project simulates forum type enviorment. You can add questions, add answers to those questions and even add comments to 
+This project simulates forum type enviorment. You can add questions, add answers to those questions and even add comments to those answers. There are also options to delete question/answers and upvote answers or comments. You can also find any question and print it along side all of its answers and comments, also it is possible to sort answers and comments based on number of upvotes they have gotten. 
